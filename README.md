@@ -1,2 +1,2 @@
-Projeto por: Lucas Periquito Costa__
+Projeto por: Lucas Periquito Costa <br />
 Para: Projeto Individual (Semana 2)
